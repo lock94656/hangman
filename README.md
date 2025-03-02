@@ -2,7 +2,8 @@
 
 ## About The Project
 
-[![Project Screen Shot][project-screenshot]]() [![Project Screen Shot][project-screenshot2]]() 
+[![Project Screen Shot][project-screenshot]]()
+[![Project Screen Shot][project-screenshot2]]() 
 
 This repository contains a series of code for the Hangman game for two persons (Instruction and rules at the bottom)
 
