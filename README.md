@@ -2,7 +2,7 @@
 
 ## About The Project
 
-[![Project Screen Shot][project-screenshot]]()
+[![Project Screen Shot][project-screenshot]]() [![Project Screen Shot][project-screenshot2]]() 
 
 This repository contains a series of code for the Hangman game for two persons (Instruction and rules at the bottom)
 
@@ -92,7 +92,8 @@ Project Link: [https://github.com/lock94656/hangman](https://github.com/lock9456
 [cpp-shield]: https://img.shields.io/badge/-C++-blue?logo=cplusplus
 [cpp-url]: https://isocpp.org/
 
-[project-screenshot]: images/screenshot.png
+[project-screenshot]: images/Screenshot from 2025-03-02 17-38-40.png
+[project-screenshot2]: images/Screenshot.png
 
 [contributors-url]: https://github.com/lock94656/hangman/graphs/contributors
 [forks-url]: https://github.com/lock94656/hangman/network/members
