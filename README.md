@@ -93,7 +93,7 @@ Project Link: [https://github.com/lock94656/hangman](https://github.com/lock9456
 [cpp-shield]: https://img.shields.io/badge/-C++-blue?logo=cplusplus
 [cpp-url]: https://isocpp.org/
 
-[project-screenshot]: images/Screenshot from 2025-03-02 17-38-40.png
+[project-screenshot]: images/Screenshot2.png
 [project-screenshot2]: images/Screenshot.png
 
 [contributors-url]: https://github.com/lock94656/hangman/graphs/contributors
